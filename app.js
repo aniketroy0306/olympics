@@ -1,6 +1,6 @@
 var myArray = [
-    {"rank":"66","country":"India","gold":"0","silver":"2","bronze":"4","total":"6"},
-{"rank":"1","country":"China","gold":"38","silver":"29","bronze":"17","total":"84"},
+   {"rank":"66","country":"India","gold":"0","silver":"2","bronze":"4","total":"6"},
+{"rank":"1","country":"China","gold":"38","silver":"29","bronze":"18","total":"85"},
 {"rank":"2","country":"United States","gold":"34","silver":"36","bronze":"32","total":"102"},
 {"rank":"3","country":"Japan","gold":"25","silver":"12","bronze":"16","total":"53"},
 {"rank":"4","country":"Great Britain","gold":"20","silver":"21","bronze":"21","total":"62"},
@@ -15,7 +15,7 @@ var myArray = [
 {"rank":"13","country":"Canada","gold":"6","silver":"6","bronze":"11","total":"23"},
 {"rank":"14","country":"Republic of Korea","gold":"6","silver":"4","bronze":"10","total":"20"},
 {"rank":"15","country":"Brazil","gold":"6","silver":"4","bronze":"8","total":"18"},
-{"rank":"16","country":"Cuba","gold":"6","silver":"3","bronze":"4","total":"13"},
+{"rank":"16","country":"Cuba","gold":"6","silver":"3","bronze":"5","total":"14"},
 {"rank":"17","country":"Poland","gold":"4","silver":"4","bronze":"5","total":"13"},
 {"rank":"18","country":"Czech Republic","gold":"4","silver":"3","bronze":"2","total":"9"},
 {"rank":"19","country":"Jamaica","gold":"4","silver":"1","bronze":"3","total":"8"},
